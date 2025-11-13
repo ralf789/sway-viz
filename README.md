@@ -1,4 +1,4 @@
-# Sway Visualiser — single‑file (MediaPipe + OpenCV)
+# Sway Visualiser — single‑file 
 
 A small tool to **visualise postural sway** and compute a simple **Centre‑of‑Mass (CoM)** stability metric from either a **live webcam** or a **video file**. Everything runs from a single Python file: `sway_viz_v1.py`.
 
